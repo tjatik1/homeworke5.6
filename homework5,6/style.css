@@ -1,0 +1,135 @@
+body{
+    background-image:50px;
+    background-color: darkgrey;
+}
+
+.post{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    width: 40%;
+}
+
+img{
+    padding: 5px;
+    height: 600px;
+}
+
+header{
+    background-color: darkgray;
+}
+
+#b{
+    color:#000000;
+    padding: 10px;
+    margin: 5px;
+}
+
+.a{
+    font-size: 30px;
+    padding: 8px;
+    margin: 4px;
+    color: #000000;
+}
+
+.lpost{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    width: 40%;
+}
+
+#v{
+    color:#000000;
+    padding: 8px;
+    margin: 4px;
+}
+
+.l{
+    font-size: 30px;
+    padding: 8px;
+    margin: 4px;
+    color: #000000;
+}
+
+.rpost{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    display: flex;
+    width: 40%;
+}
+
+#g{
+    color:#000000;
+    padding: 10px;
+    margin: 5px;
+}
+
+.w{
+    font-size: 30px;
+    padding: 10px;
+    margin: 5px;
+    color: #000000;
+}
+
+.spiderman{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+footer{
+    background-color: rgb(255, 174, 0);
+}
+
+.p{
+    font-size: 50px;
+    margin: 40px;
+    padding: 0px;
+}
+
+.container{
+    padding: 30px 25px;
+}
+
+.footerColums{
+    display: flex;
+}
+
+.footerColum{
+    flex:50%;
+    margin: 10px;
+    padding: 10px;
+}
+
+.footerColum h3 ,p,a{
+    color:white;
+}
+
+small{
+    color:white;
+}
+
+p{
+    font-size: 38px;
+}
+
+h3{
+    font-size: 38px;
+}
+
+small{
+    font-size: 25px;
+}
+
+.z{
+    padding: 30px 25px;
+    height: 300px;
+    width: 300px;
+}
